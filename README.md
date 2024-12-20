@@ -5,7 +5,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/moamen-yasser-my" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -24,7 +26,7 @@
 
 ###
 
-<p align="left">I'm  Moamen Yasser from Egypt<br><br>- 🔭 I’m Computer Science Student<br>- 📚 I'm currently Flutter<br>- ⚡ In my free time I like to code</p>
+<p align="left">I'm Moamen Yasser from Egypt<br><br>- 🔭 I’m Computer Science Student<br>- 📚 I'm currently learning Flutter<br>- ⚡ In my free time I like to code</p>
 
 ###
 
