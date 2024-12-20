@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Moamen Yasser from Egypt<br><br>- 🎓 Pursuing a degree in Computer Science </p>br-📱 Actively developing projects using Flutter- ⚡️ Enthusiastic about coding, problem-solving, and continuous learning</p>
+<p align="left">I'm Moamen Yasser from Egypt<br><br>- 🎓 Pursuing a degree in Computer Science <br>-📱 Actively developing projects using Flutter <br>-⚡️ Enthusiastic about coding, problem-solving, and continuous learning</p>
 
 ###
 
