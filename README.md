@@ -1,12 +1,12 @@
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/Moamen771/Moamen771/refs/heads/main/moameny.png"  />
+  <img height="500" src="https://raw.githubusercontent.com/Moamen771/Moamen771/refs/heads/main/moameny.png"  />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/moamen-yasser-my" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
 </div>
 
