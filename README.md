@@ -20,7 +20,9 @@
 
 ###
 
-<p align="left">I'm Moamen Yasser from Egypt<br><br>- 🎓 Pursuing a degree in Computer Science <br>-📱 Actively developing projects using Flutter <br>-⚡️ Enthusiastic about coding, problem-solving, and continuous learning</p>
+<p align="left">I'm Moamen Yasser, a Computer Science student from Egypt with a strong passion for mobile app development using Flutter. I am dedicated to honing my skills in software development and creating innovative, user-friendly applications.
+
+<br><br>- 🎓 Pursuing a degree in Computer Science <br>-📱 Actively developing projects using Flutter <br>-⚡️ Enthusiastic about coding, problem-solving, and continuous learning</p>
 
 ###
 
